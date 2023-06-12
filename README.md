@@ -1,5 +1,7 @@
 # Test-Terminal-Socket
 
+## Cloned from [Ethan Storm](https://github.com/ShadowDraco/Test-Terminal-Socket)
+
 testing features of terminal-kit and sockeet servers
 
 ## Steps for use!
